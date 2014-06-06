@@ -1,4 +1,4 @@
 joeseggie.github.io
 ===================
 
-My GitHub Projects Website
+Joseph G. Serunjogi's GitHub Projects Website
