@@ -1,4 +1,4 @@
 joeseggie.github.io
 ===================
 
-My GitHub projects website
+My GitHub Projects Website.
